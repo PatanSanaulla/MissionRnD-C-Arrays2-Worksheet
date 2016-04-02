@@ -21,5 +21,6 @@ struct transaction {
 };
 
 int countGreaterNumbers(struct transaction *Arr, int len, char *date) {
+	if ()
 	return -1;
 }
